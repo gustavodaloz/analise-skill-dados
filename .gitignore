@@ -1,0 +1,20 @@
+# Ambiente Virtual Python (não deve ir para o GitHub)
+.venv/
+venv/
+ENV/
+env/
+
+# Arquivos temporários e cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações locais de IDEs
+.vscode/
+.idea/
+
+# Arquivos de sistema
+Thumbs.db
+Desktop.ini
+.DS_Store
+
